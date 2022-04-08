@@ -332,7 +332,8 @@ PRODUCT_SHIPPING_API_LEVEL := 30
 
 # SoC Property
 PRODUCT_VENDOR_PROPERTIES += \
-    ro.soc.model=SM8250
+    ro.soc.model=SM8250 \
+    ro.soc.manufacturer=QTI
 
 # Storage
 PRODUCT_VENDOR_PROPERTIES += \
@@ -344,6 +345,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 # Subsystem silent restart
 PRODUCT_VENDOR_PROPERTIES += \
     persist.vendor.ssr.restart_level=ALL_ENABLE
+
+# Soong namespaces
+PRODUCT_SOONG_NAMESPACES += \
+    $(LOCAL_PATH) \
+    hardware/qcom-caf/bootctrl \
+    hardware/xiaomi
 
 # Thermal
 PRODUCT_VENDOR_PROPERTIES += \
