@@ -485,8 +485,8 @@ vendor/lib64/libxmi_high_dynamic_range.so|03803efe0604454ff6fee39f4b4e9b189a83f1
 vendor/lib64/vendor.qti.hardware.camera.device@2.0.so|b319a4270f41a022896157f593d2239ad6fbe843
 vendor/lib64/vendor.qti.hardware.camera.device@3.5.so|29ba8a11713104965a264f0cc9fca6448a567c13
 
-# Consumer IR - MIUI
-vendor/lib64/hw/consumerir.default.so|017088aee275b32189a07179c8422a104599220c
+# Consumer IR - MIUI 13.0.3.0.EU
+vendor/lib64/hw/consumerir.default.so|20561195194d91bc51285ff456d93578f171ef52
 
 # Camera configs
 vendor/camera/fonts/FZMiaoWuJW.ttf
