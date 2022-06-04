@@ -1,7 +1,6 @@
 # All the pinned blobs from MIUI are extracted from miui_ALIOTHGlobal_V12.5.5.0.RKHMIXM_ab215d902a_11.0
 
 # Adreno - MIUI 13.0.3.0.EU
--vendor/app/com.qualcomm.qti.gpudrivers.kona.api30/com.qualcomm.qti.gpudrivers.kona.api30.apk;PRESIGNED|6e85bf1b79c77e90c41863283655d3543d003a63
 vendor/firmware/a615_zap.b00|55c1a14a5699d05f796a982448711159f8208951
 vendor/firmware/a615_zap.b01|0d837caf3b5abe5496c8f04146935283a2a31d72
 vendor/firmware/a615_zap.b02|4ae54047f9629f2470a5d58f3940c5eb51298b96
