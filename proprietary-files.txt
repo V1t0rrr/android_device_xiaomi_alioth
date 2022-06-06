@@ -525,19 +525,19 @@ vendor/etc/camera/seg_quantized.dlc
 vendor/etc/camera/sr_params.xml
 vendor/etc/camera/vidhance_calibration
 
-# Data - MIUI 13.0.3.0.EU
+# Data - MIUI 13.0.3.0.SKHMIXM
 vendor/firmware/ipa_fws.b00|7ee9b3855d94825e3ad588924377aee3f37a86ca
-vendor/firmware/ipa_fws.b01|c0cab10d29389289cc506a29b8922b4c3d72c4cc
+vendor/firmware/ipa_fws.b01|9e57d76988389b0ada46784a13114db2e5913202
 vendor/firmware/ipa_fws.b02|1ef321c36de80cef6706617c052c4f5c219f04df
 vendor/firmware/ipa_fws.b03|c07cfef57f8f694b4cee41e78700614efbedf2bc
 vendor/firmware/ipa_fws.b04|e20c91f1c7e833886d443bbf0cb33223e303583b
-vendor/firmware/ipa_fws.elf|848960fa8f6afbda8d5bfc1ef84e0d57519325bf
-vendor/firmware/ipa_fws.mdt|c6e5b4dae6e7d35e1a3a5db6c5f58c0dbbf90a23
+vendor/firmware/ipa_fws.elf|20de270e2a205121f3b5b2bcd5aed4f99e58fb46
+vendor/firmware/ipa_fws.mdt|ae5169188a12b88919afe4cdecfd5890102cdb7d
 vendor/firmware/ipa_uc.b00|c469dae927f8645bdc82adf217a20170f3e5bb9f
-vendor/firmware/ipa_uc.b01|d864f0bc77581b80d1742f6d52fd46014e37fd6a
+vendor/firmware/ipa_uc.b01|c4d84071d5466572c72c00a7faea3b2b2b2e3923
 vendor/firmware/ipa_uc.b02|4c7bcc7e9e5285194d271931d31128a6a6660823
-vendor/firmware/ipa_uc.elf|4e230c10d9b6fea2fdaadc7b0129422a1f2a1f84
-vendor/firmware/ipa_uc.mdt|ed9e72ee83d950d3dd42ffc07c08950189ff9690
+vendor/firmware/ipa_uc.elf|1b50c255ef48135b098bfbfc0d0d317b755ff11a
+vendor/firmware/ipa_uc.mdt|038d9c2619599f7acc7b91af759a2c2016c7eba7
 
 # Fingerprint - MIUI 13.0.3.0.EU
 vendor/framework/com.fingerprints.extension.jar|190f8631c968017120110b8765091f7a95c59d4e
