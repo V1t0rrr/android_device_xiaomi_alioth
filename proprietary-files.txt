@@ -540,18 +540,18 @@ vendor/firmware/ipa_uc.elf|4e230c10d9b6fea2fdaadc7b0129422a1f2a1f84
 vendor/firmware/ipa_uc.mdt|ed9e72ee83d950d3dd42ffc07c08950189ff9690
 
 # Fingerprint - MIUI 13.0.3.0.EU
--vendor/framework/com.fingerprints.extension.jar|190f8631c968017120110b8765091f7a95c59d4e
+vendor/framework/com.fingerprints.extension.jar|190f8631c968017120110b8765091f7a95c59d4e
 vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service|d9ac899dc4bbd2ba28ae628772c4b4005dd3b329
 vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc|b7ebf3f899906f3d8bb4db8d957984a1773edd20
 vendor/etc/permissions/com.fingerprints.extension.xml|de711d8827e1d321b22b60fd75a204e8928f9c6d
--vendor/etc/vintf/manifest/android.hardware.biometrics.fingerprint@2.1-service.xml|49e82d6a43981e254d224dcc93b3ff27e0fb8407
--vendor/etc/vintf/manifest/manifest_fpc.xml|3a6b28e508205b9d41aa660200cb76078841d4bf
+vendor/etc/vintf/manifest/android.hardware.biometrics.fingerprint@2.1-service.xml|49e82d6a43981e254d224dcc93b3ff27e0fb8407
+vendor/etc/vintf/manifest/manifest_fpc.xml|3a6b28e508205b9d41aa660200cb76078841d4bf
 vendor/lib64/hw/fingerprint.fpc.so|9baf1a01ece5730f1e09aa1ec768c50c60bed68d
 vendor/lib64/vendor.xiaomi.hardware.fingerprintextension@1.0.so|8610a0f066ae154ab8bcc6e636585b7db2293e72
 
 # HotwordEnrollment - MIUI 13.0.3.0.EU
--product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk;PRESIGNED|223fbebd3cdb1308a122da715d95f20801c6167e
--product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk;PRESIGNED|98764f48a8a9b483329baed0b69dde18db3df607
+product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk;PRESIGNED|223fbebd3cdb1308a122da715d95f20801c6167e
+product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk;PRESIGNED|98764f48a8a9b483329baed0b69dde18db3df607
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml|563a58554d9c0dd0608552b644fbf74519a447bb
 system_ext/framework/com.android.hotwordenrollment.common.util.jar|c764b636e0be426a66be09dd08ab9c1921327ef0
 
@@ -817,7 +817,7 @@ vendor/firmware/vehicle_plane_RTP.bin|349523f5aa7e9cd5ccf68792d854e89608c563ec
 # Widevine - MIUI
 vendor/bin/hw/android.hardware.drm@1.3-service.widevine|2230b35e2d067ba92496cae131b00fd1bbc812c2
 vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc|c35e1a6f9a6faff19064a81e07c4be82ceaf4bb5
--vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml|ebebcf8f367641480cf7d512fc06e6ab777527be
+vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml|ebebcf8f367641480cf7d512fc06e6ab777527be
 vendor/lib64/mediadrm/libwvdrmengine.so|e021c2d28b9dc61e7ee7f211ed7110f4b289873c
 vendor/lib64/libwvhidl.so|46271313cf074f872d7aaba33a91abdbc771973a
 
