@@ -1,6 +1,6 @@
 # All the pinned blobs from MIUI are extracted from miui_ALIOTHGlobal_V12.5.5.0.RKHMIXM_ab215d902a_11.0
 
-# Adreno - MIUI 13.0.3.0.EU
+# Adreno - MIUI 13.0.3.0.SKHMIXM
 vendor/firmware/a615_zap.b00|55c1a14a5699d05f796a982448711159f8208951
 vendor/firmware/a615_zap.b01|0d837caf3b5abe5496c8f04146935283a2a31d72
 vendor/firmware/a615_zap.b02|4ae54047f9629f2470a5d58f3940c5eb51298b96
@@ -16,10 +16,10 @@ vendor/firmware/a630_sqe.fw|09a86618d0c8282bba3ed85774e9841fb3230826
 vendor/firmware/a650_sqe.fw|130a0df5c562e69ab717867ebc0b7abf6f3bcb3f
 vendor/firmware/a650_gmu.bin|c744acb10afb7c980d333c5b6521e2a18993ff14
 vendor/firmware/a650_zap.b00|8c20cfff20d7fe9814581b353c1f58d38636e8c5
-vendor/firmware/a650_zap.b01|c1412491ae7112a60ac8b0c986b03c0e38abcf92
+vendor/firmware/a650_zap.b01|679d377f0c8c13a8676cc65c56f10870d0d22ba4
 vendor/firmware/a650_zap.b02|270bae014df75a913c6c124155f2cc85706258e6
-vendor/firmware/a650_zap.elf|1532cd68efcd2bdd985ea5fd32e1dd1219a6e4ec
-vendor/firmware/a650_zap.mdt|56c85041c9093270867b5a1f14f9a7016ce2c0d0
+vendor/firmware/a650_zap.elf|ee0b44932ebc9ad4e258511cd3ad511c32624405
+vendor/firmware/a650_zap.mdt|c276688ce1e5c50ada70b1d271895a72c01738d9
 
 # ADSP modules - MIUI 13.0.3.0.EU
 vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so|810a8fbbc0ea6e12979f327330c8b66b07467846
