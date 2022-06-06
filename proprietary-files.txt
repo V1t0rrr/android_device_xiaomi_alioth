@@ -822,5 +822,5 @@ vendor/lib64/mediadrm/libwvdrmengine.so|09267a4b565592e2b2b39ddd12e6d7cb5fa951f8
 vendor/lib64/libwvhidl.so|33b8195de2224ed0e4bd6ab3921f34a159dbaa14
 
 # WiFi - MIUI 13.0.3.0.EU
-vendor/bin/cnss-daemon|92a5355a17f20517425cd0688a888654c7075d2b
+vendor/bin/cnss-daemon|73c5d6a799e7507b5d08969b7b4c7055c357558f
 vendor/bin/nv_mac|e0a933072cddbdfe13a3769eb03a8ca9cf19db7d
