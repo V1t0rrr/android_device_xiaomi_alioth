@@ -549,9 +549,9 @@ vendor/etc/vintf/manifest/manifest_fpc.xml|3a6b28e508205b9d41aa660200cb76078841d
 vendor/lib64/hw/fingerprint.fpc.so|9baf1a01ece5730f1e09aa1ec768c50c60bed68d
 vendor/lib64/vendor.xiaomi.hardware.fingerprintextension@1.0.so|8610a0f066ae154ab8bcc6e636585b7db2293e72
 
-# HotwordEnrollment - MIUI 13.0.3.0.EU
-product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk;PRESIGNED|223fbebd3cdb1308a122da715d95f20801c6167e
-product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk;PRESIGNED|98764f48a8a9b483329baed0b69dde18db3df607
+# HotwordEnrollment - MIUI 13.0.3.0.SKHMIXM
+product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk;PRESIGNED|f6fcc366dd6a5f1edac01d332ebba40a2ec47903
+product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk;PRESIGNED|dec7c6b296c45d52497a076df539b2c414c1a0d8
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml|563a58554d9c0dd0608552b644fbf74519a447bb
 system_ext/framework/com.android.hotwordenrollment.common.util.jar|c764b636e0be426a66be09dd08ab9c1921327ef0
 
