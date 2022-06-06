@@ -814,12 +814,12 @@ vendor/firmware/vehicle_dacia_RTP.bin|b7062d237ac7fd63134997291b84b27c193fb90f
 vendor/firmware/vehicle_moto_RTP.bin|2b170c938802d26ddc8383280ecc1a65e2b8c53c
 vendor/firmware/vehicle_plane_RTP.bin|349523f5aa7e9cd5ccf68792d854e89608c563ec
 
-# Widevine - MIUI
+# Widevine - MIUI 13.0.3.0.SKHMIXM
 vendor/bin/hw/android.hardware.drm@1.3-service.widevine|2230b35e2d067ba92496cae131b00fd1bbc812c2
-vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc|c35e1a6f9a6faff19064a81e07c4be82ceaf4bb5
+vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc|a9ce64f68c86725c06c1b1429e90b04ff96ebf60
 vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml|ebebcf8f367641480cf7d512fc06e6ab777527be
-vendor/lib64/mediadrm/libwvdrmengine.so|e021c2d28b9dc61e7ee7f211ed7110f4b289873c
-vendor/lib64/libwvhidl.so|46271313cf074f872d7aaba33a91abdbc771973a
+vendor/lib64/mediadrm/libwvdrmengine.so|09267a4b565592e2b2b39ddd12e6d7cb5fa951f8
+vendor/lib64/libwvhidl.so|33b8195de2224ed0e4bd6ab3921f34a159dbaa14
 
 # WiFi - MIUI 13.0.3.0.EU
 vendor/bin/cnss-daemon|92a5355a17f20517425cd0688a888654c7075d2b
