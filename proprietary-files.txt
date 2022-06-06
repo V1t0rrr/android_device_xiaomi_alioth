@@ -559,9 +559,9 @@ system_ext/framework/com.android.hotwordenrollment.common.util.jar|c764b636e0be4
 vendor/etc/libnfc-nxp_RF.conf|4fbc1ee7ede5ab587671258d178b0f6e171428b1
 vendor/lib/libsn100u_fw.so|127d8580e89f9b6170abf7625c6e0d5433227aff
 
-# Sensors - MIUI
+# Sensors - MIUI 13.0.3.0.SKHMIXM
 vendor/bin/init.qcom.sensors.sh|5b38688acaf5f4a2e973b72d236a06498703a023
-vendor/bin/sensors.qti|9a883591c8f6d4a7efdc47de39839d328fbbe729
+vendor/bin/sensors.qti|d9e70737b874086e4f1fe5214b2babc13d042993
 vendor/bin/sscrpcd|f077b0d65512eff1850ca5d53e319de4a5552deb
 vendor/etc/elliptic_sensor.xml|c821cade58e0f10972fc5c81c24044db71e0619a
 vendor/etc/init/init.vendor.sensors.rc|76af799ee1c3b4a7fd0a29f1cb133e520e9721f2
@@ -571,7 +571,7 @@ vendor/lib/libsns_device_mode_stub.so|3ea8fd1e5c36ebbc8e6ed488f7c8e38787bb2d28
 vendor/lib/libsns_fastRPC_util.so|0570f721794a220884c95481f523b3907905d729
 vendor/lib/libsns_low_lat_stream_stub.so|0bb19f3fabbbe25539056257f0d7dc9b6dc86917
 vendor/lib/libsns_registry_skel.so|52cf14b95c2dab420a0215e74f69c4c6bc4552ec
-vendor/lib/libsnsapi.so|0048e68dab6867772e92216d426611e0cc3fb48a
+vendor/lib/libsnsapi.so|7a87a7092b15fce732ec33baebcc0e640222c818
 vendor/lib/libsnsdiaglog.so|4ca1f16f9219f4651e136cfa1c55e99cbdb2aa00
 vendor/lib/rfsa/adsp/libsns_device_mode_skel.so|733a5b8861bb6eb1285bb8982992531c94800997
 vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so|c30bb30eecf968e02f72c055d3cc13a7f769644f
@@ -582,17 +582,17 @@ vendor/lib64/libsns_device_mode_stub.so|7d5b670af507c52734803dabae1c01d0ed511c14
 vendor/lib64/libsns_fastRPC_util.so|f7ad84d5ddad6ef30531f567d170dd9a8d627c51
 vendor/lib64/libsns_low_lat_stream_stub.so|9c9fd834afb0991dd7c943ade5fa96ab05776ba1
 vendor/lib64/libsns_registry_skel.so|9ef2316ddd35f4d6499fbc0232930138cbaaf434
-vendor/lib64/libsnsapi.so|6c91fb47c65eb89ae99a752ee733fcd3565e6c94
+vendor/lib64/libsnsapi.so|bdf60a8fb96df74493fb082b3b540ebc872e7de6
 vendor/lib64/libsnsdiaglog.so|c0123f316ed16475cb66bd9d557b03d713325de8
 vendor/lib64/libssc.so|6216c1bd65e8a1b927de600020b10221ecb47863
 vendor/lib64/libssc_default_listener.so|6f6b6a3f1cafd00f56540abc38fe09cea15d1cd6
-vendor/lib64/libssccalapi.so|19ffbbc131a475730e7cbdb45b26cb69b780e835
+vendor/lib64/libssccalapi.so|78d350ecf36b9bbdd97b59b173a4ece884f60569
 vendor/lib64/libultrasound.so|07ca488613e193c30ca95ebefd1cfd047ad9e558
 vendor/lib64/rfsa/adsp/libsns_device_mode_skel.so|733a5b8861bb6eb1285bb8982992531c94800997
 vendor/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so|c30bb30eecf968e02f72c055d3cc13a7f769644f
 vendor/lib64/sensors.elliptic.so|60d2badb6950b36697fabf8886890de503975e11
 vendor/lib64/sensors.mius.proximity.so|cc2f81cef35f93b0a0923068ca9e34c136b6f459
-vendor/lib64/sensors.ssc.so|5c87ec882d4edcdc36cf414ca6edc0a18b89c652
+vendor/lib64/sensors.ssc.so|17a98fc16cd7ca87717ed1d93816a4171b8eb940
 
 # Sensor (calibrate) - MIUI
 vendor/bin/hw/vendor.qti.hardware.sensorscalibrate@1.0-service|610b6fb944e642095928c85d11ee1b0a190b207c
@@ -601,7 +601,7 @@ vendor/etc/init/vendor.qti.hardware.sensorscalibrate@1.0-service.rc|449c88778d88
 vendor/lib64/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so|ee09ba16c4d6527fe76420f28109dc70ea5eee08
 vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so|7e3a81f44357e202568970d6d50ecfea35051917
 
-# Sensor configs - MIUI
+# Sensor configs - MIUI 13.0.3.0.SKHMIXM
 vendor/etc/sensors/config/ak991x_dri_0.json|9521c21abc74cfbc194137cea3933eab6bef3ba6
 vendor/etc/sensors/config/bu27030_0_back.json|6fa9d4b380f795c9f881ba289f51ad218c76f99a
 vendor/etc/sensors/config/lsm6dso_0.json|c7278b7dc351118be3a1bc897c94174b1d5fe0e7
@@ -632,8 +632,8 @@ vendor/etc/sensors/config/sns_oem13.json|848b7ce907c8d23dc66acdf072fc84f0b0be4df
 vendor/etc/sensors/config/sns_pedometer.json|de3bdf9102d87b490d3bff68cd139c24143dff6d
 vendor/etc/sensors/config/sns_rmd.json|fb2a34c3edcec62afeabdb676d8d4f449ef7353c
 vendor/etc/sensors/config/sns_rotv.json|30c0ffeaa6a8c7cafc05cf864c0c18ea77bd32d6
-vendor/etc/sensors/config/sns_sar_algo.json|a507e4c0a32033dd3db396839c7c216f7452cc7b
-vendor/etc/sensors/config/sns_sar_algo_1.json|d3c9df50a248e157c9e0a922ddba4c96f6b0a4d7
+vendor/etc/sensors/config/sns_sar_algo.json|10b488249501ce0041cf594fabf4a8db599fc9bc
+vendor/etc/sensors/config/sns_sar_algo_1.json|ef9a77cbbe51a876d57b25ac6008d1d3a43ce65d
 vendor/etc/sensors/config/sns_smd.json|52b4f131fd184ba15338401377e5fa5ddbc665a7
 vendor/etc/sensors/config/sns_tilt.json|7ad2f275d6272976135aeabf4b39a84b03717513
 vendor/etc/sensors/config/sns_tilt_sw_disabled.json|2761c1402c90ae96dd1ebad50f8cfe802ac79a99
@@ -641,7 +641,7 @@ vendor/etc/sensors/config/sns_tilt_to_wake.json|e2a231e804a95ce519d3af0cd3a8fb0d
 vendor/etc/sensors/config/sx932x_0.json|f4597bfa2ea8757a348018e93767cd387480b2e5
 vendor/etc/sensors/config/sx932x_1.json|bff36d0de29c6af4ce880be82e455856260e6fef
 vendor/etc/sensors/config/tcs3701.json|9b921156bfa4d26c866b09934798b7e0f6bd4bb8
-vendor/etc/sensors/judge_calibrated.json|a1b0daeddae3a94763400f0067682a36bba6ee8b
+vendor/etc/sensors/judge_calibrated.json|0df927c4766c3a54267bab638787d564c17f8d85
 vendor/etc/sensors/sns_reg_config|cea8c9f674c039de77bb7f743d8a9122ab8b6897
 
 # Thermal - MIUI 13.0.3.0.EU
