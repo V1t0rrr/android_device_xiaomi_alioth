@@ -17,7 +17,7 @@ r_dir_file(hal_fingerprint_default, vendor_qdsp_device)
 r_dir_file(hal_fingerprint_default, vendor_xdsp_device)
 
 # Allow hal_fingerprint_default to set fingerprint properties
-set_prop(hal_fingerprint_default, vendor_fp_prop)
+set_prop(hal_fingerprint_default, vendor_fingerprint_prop)
 
 # Allow hal_fingerprint_default to read adsprpc properties
 get_prop(hal_fingerprint_default, vendor_adsprpc_prop)
