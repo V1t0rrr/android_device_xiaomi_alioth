@@ -239,6 +239,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     AliothCarrierConfig \
     AliothFrameworks \
+    AliothNfc \
     AliothSettings \
     AliothSystemUI \
     AOSPAAliothFrameworks \
