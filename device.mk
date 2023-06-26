@@ -251,8 +251,8 @@ PRODUCT_PACKAGES += \
     AliothFrameworks \
     AliothSettings \
     AliothSystemUI \
-    AOSPAAliothFrameworks \
-    AOSPAAliothSystemUI \
+    AOSPAliothFrameworks \
+    AOSPAliothSystemUI \
     FrameworksResTarget \
     SettingsOverlayM2012K11AG \
     SettingsOverlayM2012K11AI \
@@ -279,6 +279,9 @@ PRODUCT_VENDOR_PROPERTIES += \
     persist.vendor.radio.manual_nw_rej_ct=1
 
 # QTI
+$(call inherit-product, device/qcom/common/common.mk)
+TARGET_USE_SM8250_HALS := true
+
 TARGET_COMMON_QTI_COMPONENTS := \
     adreno \
     audio \
